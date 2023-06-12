@@ -1,7 +1,7 @@
 <h1>🔒 Security Audit</h1>
 
 <h2>Description</h2>
-Project consists of a security audit that I worked on through Googles cybersecurity professional certificate program. Helped me build foundational skills for doing audits and meeting compliance standards.
+Project consists of a security audit that I worked on through Googles cybersecurity professional certificate program. Helped me in laying out the foundation for doing audits and meeting compliance standards.
 <br />
 
 <h2>Steps took:</h2>
